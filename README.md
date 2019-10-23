@@ -15,7 +15,7 @@ gradlew.bat assemble
 :: to start assembled .jar file
 java -jar build\libs\Calc-1.0.2.jar
 
-:: test report place
+:: gradle test report place
 test report is index.html in build\reports\tests\test
 
 :: display allure test report
